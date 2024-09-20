@@ -8,5 +8,6 @@
   - CSS 외부 링크🛴
   - 특수 효과
 - 깃으로 관리 😀
+- 깃허브 페이지를 사용해서 배포(Deploy)함
 
-[Google](https://google.com)
+[배포](https://js92017.github.io/imageGallery/)
